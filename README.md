@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,python,c,cpp)](https://skillicons.dev)
+
 <!--
 **DavideLacerdaT/DavideLacerdaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
